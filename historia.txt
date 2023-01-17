@@ -5,3 +5,5 @@ Angel actualmente tiene una edad de 22, nacido en colombia
 Hoy se hablara de su historia
 
 EN camara es alto
+
+Hoy es el ceo de git
