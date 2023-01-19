@@ -2,3 +2,8 @@ body{
     text-align: center;
     font-family:  'Courier New', Courier, monospace;
 }
+
+#cabecera{
+    background-color: brown;
+    font-size: large;
+}
